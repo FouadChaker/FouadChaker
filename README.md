@@ -2,7 +2,7 @@
 - 👀 I’m interested in back-end development and distributed systems.
 - 🌱 I’m currently exploring ASP.Net and docker.
 - 💞️ I’m looking to collaborate on a back-end project using microservices.
-- 📫 You can reach me on Twitter @chaker_fouad or Discord @Fouad_Chaker.
+- 📫 You can reach me on Twitter @FouadCkr or Discord @Fouad_Chaker.
 
 <!---
 FouadChaker/FouadChaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
